@@ -1,3 +1,0 @@
-[lib]
-name = "rustfunctions"
-crate-type = ["cdylib"]
