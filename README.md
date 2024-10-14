@@ -1,6 +1,8 @@
 # CalculatorT
 # Simple Ruby Calculator
 
+![VSMWardAzureRuby](https://github.com/user-attachments/assets/ce586e58-c3cd-4b2c-9825-08f1600c50a9)
+
 ## Description
 This is a basic command-line calculator application written in Ruby. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
