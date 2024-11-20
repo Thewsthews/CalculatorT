@@ -1,12 +1,13 @@
-# CalculatorT
-# Simple Ruby Calculator
+# Calculator
+
+# Simple Ruby Calculator🧮
 
 ![VSMWardAzureRuby](https://github.com/user-attachments/assets/ce586e58-c3cd-4b2c-9825-08f1600c50a9)
 
 ## Description
 This is a basic command-line calculator application written in Ruby. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Features
+## Features ⚙️
 - Supports four basic operations: +, -, *, /
 - Handles floating-point numbers
 - Provides error messages for division by zero and invalid operators
@@ -15,7 +16,7 @@ This is a basic command-line calculator application written in Ruby. It allows u
 ## Requirements
 - Ruby 2.0 or higher
 
-## Installation
+## Installation⚒️
 1. Ensure you have Ruby installed on your system.
 2. Clone this repository or download the `calculator.rb` file.
 
