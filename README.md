@@ -4,7 +4,7 @@
 
 ![VSMWardAzureRuby](https://github.com/user-attachments/assets/ce586e58-c3cd-4b2c-9825-08f1600c50a9)
 
-## Description
+## Description🧾
 This is a basic command-line calculator application written in Ruby. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features ⚙️
@@ -13,7 +13,7 @@ This is a basic command-line calculator application written in Ruby. It allows u
 - Provides error messages for division by zero and invalid operators
 - Allows continuous calculations until the user chooses to quit
 
-## Requirements
+## Requirements⚖️
 - Ruby 2.0 or higher
 
 ## Installation⚒️
