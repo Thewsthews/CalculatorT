@@ -20,7 +20,7 @@ This is a basic command-line calculator application written in Ruby. It allows u
 1. Ensure you have Ruby installed on your system.
 2. Clone this repository or download the `calculator.rb` file.
 
-## Usage
+## Usage🔗
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing `calculator.rb`.
 3. Run the program using the command:
