@@ -1,4 +1,4 @@
-def calculate(num1, operator, num2)
+def calculate(num1,num2, operator)
     case operator
     when '+'
         num1 + num2
