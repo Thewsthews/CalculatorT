@@ -14,7 +14,7 @@ This is a basic command-line calculator application written in Ruby. It allows u
 - Allows continuous calculations until the user chooses to quit
 
 ## Requirements⚖️
-- Ruby 2.0 or higher
+- Ruby 2.0 or higher 📈
 
 ## Installation⚒️
 1. Ensure you have Ruby installed on your system.
