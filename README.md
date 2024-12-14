@@ -1,4 +1,4 @@
-# Calculator
+# CL
 
 # Simple Ruby Calculator🧮
 
